@@ -10,15 +10,20 @@
 </head>
 
 <body>
-<div class="container">
-    <div id ="header" class "header">
-        <div class="text-center">
-            <img src="https://avatars.githubusercontent.com/u/82326727?s=400&u=9b8599174d40ed1c6b7fbe87c256dbb49dc9c82a&v=4" class="rounded" alt="That's me!">
-            <h1 class="display-1">Chris Rio</h1>
-            <h2 class="display-4">IT Professional and Aspiring Developer</h2>
-        </div>
+
+  <div class="overlay"></div>
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    {% load static %}
+    <source src="https://rcrjrwebsite.s3.us-east-2.amazonaws.com/bg.mov" type="video/mp4">
+  </video>
+  <div class="container h-100">
+    <div class="d-flex h-100 text-center align-items-center">
+      <div class="w-100 text-white">
+        <h1 class="display-3">Video Header</h1>
+        <p class="lead mb-0">With HTML5 Video and Bootstrap 4</p>
+      </div>
     </div>
-</div>
+  </div>
 
 
 
@@ -34,7 +39,5 @@
 
 
 
-<article>This is only a test.</article>
-<h1> Hello, World!</h1>
 </body>
 </html>
