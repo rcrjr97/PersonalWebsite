@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 def homePage(request):
-   return render(request, 'homeBase.html', {}) 
+   return render(request, 'index.html', {}) 
