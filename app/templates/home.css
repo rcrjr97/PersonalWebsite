@@ -1,0 +1,58 @@
+.fullpage-bg {
+    position:fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.fullpage-bg-vid {
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+body {
+    overflow-y: hidden;
+}
+
+.avatar-img {
+    display: inline;
+}
+
+.col:hover {
+    -webkit-transform: translateY(8px);
+    transform: translateY(8px);
+    transition: .5s ease;
+    
+}
+.fa-linkedin:hover {
+    color:  rgb(225,237,230);
+}
+
+.fa-github-square:hover {
+    color: rgb(225,237,230);
+}
+
+.fa-instagram-square:hover {
+    color: rgb(225,237,230);
+}
+
+.fa-envelope-square:hover {
+    color: rgb(225,237,230);
+}
+
+.fa-file-alt:hover {
+    color: rgb(225,237,230);
+}
+
+.fa-square:hover {
+    color: rgb(225,237,230);
+}
