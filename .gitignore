@@ -7,3 +7,5 @@ app/__pycache__
 app/__pycache__/urls.cpython-39.pyc
 app/__pycache__/views.cpython-39.pyc
 PersonalWebsite/__pycache__/urls.cpython-39.pyc
+PersonalWebsite/__pycache__/settings.cpython-39.pyc
+PersonalWebsite/__pycache__/urls.cpython-39.pyc
