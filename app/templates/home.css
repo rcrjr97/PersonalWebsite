@@ -23,6 +23,11 @@ body {
     overflow-y: hidden;
 }
 
+.heading-text {
+    color: rgb(225,237,230);
+    font-family: 'Ubuntu', sans-serif;
+}
+
 .avatar-img {
     display: inline;
 }
