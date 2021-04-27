@@ -24,7 +24,7 @@ body {
 }
 
 .heading-text {
-    color: rgb(225,237,230);
+    color: hsl(60, 100%, 97%);
     font-family: 'Ubuntu', sans-serif;
 }
 
