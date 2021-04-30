@@ -28,9 +28,6 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.avatar-img {
-    display: inline;
-}
 
 .col:hover {
     -webkit-transform: translateY(8px);
@@ -39,25 +36,25 @@ body {
     
 }
 .fa-linkedin:hover {
-    color:  rgb(225,237,230);
+    color:#F2BB77;
 }
 
 .fa-github-square:hover {
-    color: rgb(225,237,230);
+    color: #F2BB77;
 }
 
 .fa-instagram-square:hover {
-    color: rgb(225,237,230);
+    color:#F2BB77;
 }
 
 .fa-envelope-square:hover {
-    color: rgb(225,237,230);
+    color:#F2BB77;
 }
 
 .fa-file-alt:hover {
-    color: rgb(225,237,230);
+    color:#F2BB77;
 }
 
 .fa-square:hover {
-    color: rgb(225,237,230);
+    color:#F2BB77;
 }
