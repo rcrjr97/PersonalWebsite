@@ -26,6 +26,7 @@ body {
 .heading-text {
     color: hsl(60, 100%, 97%);
     font-family: 'Ubuntu', sans-serif;
+    font-size:  48px; 
 }
 
 
