@@ -1,5 +1,5 @@
 # personal-website
-A personal website created using Django and Bootstrap.
+A personal website created using Django, HTML5, CSS3 and Bootstrap
   
   
   
