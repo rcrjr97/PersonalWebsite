@@ -1,5 +1,6 @@
 # personal-website
 A personal website created using Django, HTML5, CSS3, Bootstrap and utilizing AWS s3 for content delivery.
+
 Before deploying this Django project, make sure that the SECRET_KEY variable in changed in the settings.py config file. 
  
   
