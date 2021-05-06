@@ -3,9 +3,9 @@ A personal website created using Django, HTML/CSS and Bootstrap.
 
 Before deploying this Django project, make sure that the SECRET_KEY variable in changed in the settings.py config file. 
 
-CSS is included in templates folder, however is delivered via AWS s3 in production.
+CSS is included in templates folder, AWS s3 CDN is used in the example as a delivery method.
 
-To use CSS in the Django development server configure static files in settings.py.
+To use file hosting in the Django development server configure static files in settings.py.
 
 Admin url has been disabled in urls.py.
  
