@@ -6,6 +6,8 @@ Before deploying this Django project, make sure that the SECRET_KEY variable in 
 CSS is included in templates folder, however is delivered via s3 in production.
 
 To use CSS in the Django development server configure static files in settings.py.
+
+Admin url has been disabled in urls.py.
  
   
   
